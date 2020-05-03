@@ -1,0 +1,13 @@
+D:\ALGEBRA\4.semestar - Objektno orijentirano programiranje u .NET okolini\DataAccessLayer\MainForm\obj\Debug\MainForm.csprojAssemblyReference.cache
+D:\ALGEBRA\4.semestar - Objektno orijentirano programiranje u .NET okolini\DataAccessLayer\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\ALGEBRA\4.semestar - Objektno orijentirano programiranje u .NET okolini\DataAccessLayer\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+D:\ALGEBRA\4.semestar - Objektno orijentirano programiranje u .NET okolini\DataAccessLayer\MainForm\bin\Debug\MainForm.exe.config
+D:\ALGEBRA\4.semestar - Objektno orijentirano programiranje u .NET okolini\DataAccessLayer\MainForm\bin\Debug\MainForm.exe
+D:\ALGEBRA\4.semestar - Objektno orijentirano programiranje u .NET okolini\DataAccessLayer\MainForm\bin\Debug\MainForm.pdb
+D:\ALGEBRA\4.semestar - Objektno orijentirano programiranje u .NET okolini\DataAccessLayer\MainForm\bin\Debug\DAL.dll
+D:\ALGEBRA\4.semestar - Objektno orijentirano programiranje u .NET okolini\DataAccessLayer\MainForm\bin\Debug\DAL.pdb
+D:\ALGEBRA\4.semestar - Objektno orijentirano programiranje u .NET okolini\DataAccessLayer\MainForm\obj\Debug\MainForm.csproj.CopyComplete
+D:\ALGEBRA\4.semestar - Objektno orijentirano programiranje u .NET okolini\DataAccessLayer\MainForm\obj\Debug\MainForm.exe
+D:\ALGEBRA\4.semestar - Objektno orijentirano programiranje u .NET okolini\DataAccessLayer\MainForm\obj\Debug\MainForm.pdb
+D:\ALGEBRA\4.semestar - Objektno orijentirano programiranje u .NET okolini\DataAccessLayer\MainForm\obj\Debug\MainForm.StartPage.resources
+D:\ALGEBRA\4.semestar - Objektno orijentirano programiranje u .NET okolini\DataAccessLayer\MainForm\obj\Debug\MainForm.FavoriteRepresentationPage.resources
